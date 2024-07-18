@@ -1,3 +1,3 @@
-# time_minder
+# TimeMinder
 
 A new Flutter project.
