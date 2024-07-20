@@ -4,6 +4,7 @@ TimeMinder, a tool designed to help individuals manage their time effectively. T
 
 # Output
 Description:
+
 ![1](https://github.com/user-attachments/assets/17c70f57-6804-403b-82c1-b04ce4c9bfa1)
 
 Description:
