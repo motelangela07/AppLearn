@@ -3,7 +3,7 @@
 TimeMinder, a tool designed to help individuals manage their time effectively. The name suggests a focus on keeping track of time, organizing tasks, and ensuring that important activities are remembered and completed in a timely manner. It combines "time," indicating the resource being managed, and "minder," implying a guide or reminder.
 
 # Output
-Description:
+Description: The image shows a welcome screen for the "TimeMinder" app, designed to assist students with effective time management. At the top center of the screen is a stopwatch icon, symbolizing time management. Below the icon, the app's name "TimeMinder" is displayed prominently in bold, large text. Underneath the app name, a tagline reads "Effective Time Management for Students," providing a concise description of the app's purpose. Towards the bottom of the screen is a "Get Started" button, which serves as a call to action, inviting users to begin using the app. The design features a light blue background, creating a clean and inviting interface that draws attention to the main elements.
 
 ![1](https://github.com/user-attachments/assets/17c70f57-6804-403b-82c1-b04ce4c9bfa1)
 
