@@ -30,7 +30,7 @@ TimeMinder, a tool designed to help individuals manage their time effectively. T
 
 **Description:** The dropdown menu indicates that users can expand these tips listed to be able to see further details related to each topic.
 
-![7](https://github.com/user-attachments/assets/214f5ba1-d081-432e-b726-524644e3d9d0)
+![8](https://github.com/user-attachments/assets/f3446bd5-fbdd-4df4-816c-f228849027f1)
 
 **Description:** The image showcases a section of an application titled "Types of Productivity Techniques". It lists various productivity tools with a brief description of their functions, accessible via a dropdown menu. The dropdown menu functionality allows users to expand and collapse detailed information about each tool, providing an organized way to learn about different productivity techniques.
 
