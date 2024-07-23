@@ -22,7 +22,7 @@ Improve time management skills, increase productivity, and offer a user-friendly
 
 **Description:** At the top, the app bar displays the name "TimeMinder." A navigation drawer, accessible via a hamburger menu icon, provides additional options and settings for the user. The app features a scrollable infographic, indicating that users can explore more content by scrolling down. To enhance navigation, an upward arrow button is present, allowing users to smoothly scroll back to the top of the page.
 
-![2](https://github.com/user-attachments/assets/2e7964aa-de5b-4824-9cb3-476d25f38ad7)
+![22](https://github.com/user-attachments/assets/7ca4d985-84c4-4112-bef5-9723e7e3f523)
 
 **Description:** The image shows the inside of the hamburger navigation bar within the TimeMinder app. The menu features several options for users to enhance their productivity and time management skills. These options include "Key Concepts and Tips," which provides foundational knowledge and advice, "Productivity Tools," offering access to various productivity-enhancing tools, "Productivity Techniques," which shares methods and strategies for improving productivity, and "Educational Clip," featuring educational video content.
 
