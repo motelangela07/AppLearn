@@ -1,6 +1,6 @@
 # TimeMinder
 
-TimeMinder, a tool designed to help individuals manage their time effectively. The name suggests a focus on keeping track of time, organizing tasks, and ensuring that important activities are remembered and completed in a timely manner. It combines "time," indicating the resource being managed, and "minder," implying a guide or reminder.
+TimeMinder is a tool designed to help individuals manage their time effectively. The name suggests a focus on keeping track of time, organizing tasks, and ensuring that important activities are completed in a timely manner. It combines "time," indicating the resource being managed, and "minder," implying a guide or assistant. While its main function is to serve as a timer, helping users allocate specific time intervals to various tasks, it also aids in fostering a disciplined approach to productivity.
 
 # Project Intro
 TimeMinder is an innovative mobile application designed to assist individuals in managing their time more effectively. By providing various concepts of better time management, TimeMinder aims to enhance productivity and ensure that important activities are completed promptly. The app's user-friendly interface and strong functionality cater to the needs of busy professionals, students, and anyone looking to optimize their daily routines.
