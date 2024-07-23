@@ -26,7 +26,7 @@ Improve time management skills, increase productivity, and offer a user-friendly
 
 **Description:** The image shows the inside of the hamburger navigation bar within the TimeMinder app. The menu features several options for users to enhance their productivity and time management skills. These options include "Key Concepts and Tips," which provides foundational knowledge and advice, "Productivity Tools," offering access to various productivity-enhancing tools, "Productivity Techniques," which shares methods and strategies for improving productivity, and "Educational Clip," featuring educational video content.
 
-![3](https://github.com/user-attachments/assets/e3fe6ee8-513e-4c7d-bc62-8132e1f90445)
+![33](https://github.com/user-attachments/assets/0c1ee7ff-1007-454f-aaf4-3f2b5d95b565)
 
 **Description:** The image displays the "Key Concepts and Tips" section within the TimeMinder app. This section offers a comprehensive overview of key time management principles. Each key concept is listed with a dropdown menu, with an icon.
 
@@ -53,3 +53,7 @@ Improve time management skills, increase productivity, and offer a user-friendly
 **Description:** The application interface highlights an "Educational Clips" section focused on time management. This section includes video content, with titles and thumbnails each. The interface also includes a play button and video duration alongside the speaker icon for mute and unmute sound, indicating that users can easily access and watch these educational clips directly within an application. Users can also modify the speed of the video and can also fully screen the video based on preference.
 
 ![11](https://github.com/user-attachments/assets/a51c4796-21ab-44f7-835e-9f118034c193)
+
+**Description:** The application interface highlights an "Educational Clips" section focused on time management. This section includes video content, with titles and thumbnails each. The interface also includes a play button and video duration alongside the speaker icon for mute and unmute sound, indicating that users can easily access and watch these educational clips directly within an application. Users can also modify the speed of the video and can also fully screen the video based on preference.
+
+![12](https://github.com/user-attachments/assets/9f92ef07-a750-417f-ae5c-cdb46cdebc9d)
