@@ -61,7 +61,7 @@ Description: The image showcases a section of an application titled "Types of Pr
 
 **:pushpin: Educational Clip Page** 
 
-**Description:** The application interface highlights an "Educational Clips" section focused on time management. This section includes video content, with titles and thumbnails each. The interface also includes a play button and video duration alongside the speaker icon for mute and unmute sound, indicating that users can easily access and watch these educational clips directly within an application. Users can also modify the speed of the video and can also fully screen the video based on preference.
+**Description:** The application interface highlights an "Educational Clips" section focused on time management. This section includes video content, with titles and thumbnails each. The interface also includes a play button and video duration alongside the speaker icon for mute and unmute sound when tapped, indicating that users can easily access and watch these educational clips directly within an application. Users can also modify the speed of the video and can also fully screen the video based on preference.
 
 ![8](https://github.com/user-attachments/assets/fdab1509-9093-427e-bc11-77ffa9022e2d)
 
