@@ -16,6 +16,7 @@ Improve time management skills, increase productivity, and offer a user-friendly
 3. Ensure timely completion of tasks through effective reminders and task organization.
 
 # Output
+:pushpin: Splash Screen
 **Description:** The image features a minimalist and colorful illustration of a hand holding a stopwatch. The background transitions smoothly from a blue gradient at the top to a pink gradient at the bottom, creating a visually appealing backdrop. This image serve as a splash screen before have a sight of the landing page.
 
 ![1](https://github.com/user-attachments/assets/95461f02-bb7b-4e5c-9379-b5a1c39099e1)
