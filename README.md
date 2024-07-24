@@ -30,7 +30,7 @@ Improve time management skills, increase productivity, and offer a user-friendly
 
 ![3](https://github.com/user-attachments/assets/b7801d93-d339-4de5-818c-c6e913c81968)
 
-**Description:** The image shows the inside of the hamburger navigation bar within the TimeMinder app. The menu features several options for users to enhance their productivity and time management skills. These options include "Key Concepts and Tips," which provides foundational knowledge and advice, "Productivity Tools," offering access to various productivity-enhancing tools, "Productivity Techniques," which shares methods and strategies for improving productivity, and "Educational Clip," featuring educational video content.
+**Description:** The image shows the inside of the hamburger navigation bar within the TimeMinder app. The menu features several options for users to enhance their productivity and time management skills. These options include "Key Concepts and Tips," which provides foundational knowledge and advice, "Productivity Tools," offering access to various productivity-enhancing tools, "Productivity Techniques," which shares methods and strategies for improving productivity, "Educational Clip," featuring educational video content, and Set Timer drawer allowing users to configure countdown timer.
 
 ![4](https://github.com/user-attachments/assets/8b502a5a-2e47-41e7-9891-9a4a5008f4f5)
 
