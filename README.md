@@ -47,9 +47,9 @@ Improve time management skills, increase productivity, and offer a user-friendly
 
 ![5](https://github.com/user-attachments/assets/4384f43f-15a2-40f3-ab79-8a4f5a48ae5f)
 
- **:pushpin: Types of Productivity Techniques Page**
+ **:pushpin: Types of Productivity Tools Page**
 
-Description: The image showcases a section of an application titled "Types of Productivity Techniques". It lists various productivity tools with a brief description of their functions, accessible via a dropdown menu. The dropdown menu functionality allows users to expand and collapse detailed information about each tool, providing an organized way to learn about different productivity techniques.
+Description: The image showcases a section of an application titled "Types of Productivity Tools". It lists various productivity tools with a brief description of their functions, accessible via a dropdown menu. The dropdown menu functionality allows users to expand and collapse detailed information about each tool, providing an organized way to learn about different productivity tools.
 
 ![6](https://github.com/user-attachments/assets/8298fdef-d12b-4dd5-bc77-3a42bd240826)
 
