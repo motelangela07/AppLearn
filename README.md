@@ -16,25 +16,30 @@ Improve time management skills, increase productivity, and offer a user-friendly
 3. Ensure timely completion of tasks through effective reminders and task organization.
 
 # Output
+
+
+
+
+
 **Description:** The image shows a welcome screen for the "TimeMinder" app, designed to assist students with effective time management. At the top center of the screen is a stopwatch icon, symbolizing time management. Below the icon, the app's name "TimeMinder" is displayed prominently in bold, large text. Underneath the app name, a tagline reads "Effective Time Management for Students," providing a concise description of the app's purpose. Towards the bottom of the screen is a "Get Started" button, which serves as a call to action, inviting users to begin using the app. The design features a light blue background, creating a clean and inviting interface that draws attention to the main elements.
 
-![1](https://github.com/user-attachments/assets/17c70f57-6804-403b-82c1-b04ce4c9bfa1)
+1
 
 **Description:** At the top, the app bar displays the name "TimeMinder." A navigation drawer, accessible via a hamburger menu icon, provides additional options and settings for the user. The app features a scrollable infographic, indicating that users can explore more content by scrolling down. To enhance navigation, an upward arrow button is present, allowing users to smoothly scroll back to the top of the page.
 
-![22](https://github.com/user-attachments/assets/7ca4d985-84c4-4112-bef5-9723e7e3f523)
+2
 
 **Description:** The image shows the inside of the hamburger navigation bar within the TimeMinder app. The menu features several options for users to enhance their productivity and time management skills. These options include "Key Concepts and Tips," which provides foundational knowledge and advice, "Productivity Tools," offering access to various productivity-enhancing tools, "Productivity Techniques," which shares methods and strategies for improving productivity, and "Educational Clip," featuring educational video content.
 
-![33](https://github.com/user-attachments/assets/0c1ee7ff-1007-454f-aaf4-3f2b5d95b565)
+3
 
 **Description:** The image displays the "Key Concepts and Tips" section within the TimeMinder app. This section offers a comprehensive overview of key time management principles. Each key concept is listed with a dropdown menu, with an icon.
 
-![4](https://github.com/user-attachments/assets/ca164599-6ae4-4e1e-a4e5-b98ccc6bd4c7)
+4
 
 **Description:** The dropdown menu indicates that users can expand these items to access more detailed information and tips related to each topic.
 
-![5](https://github.com/user-attachments/assets/e4495288-9bba-4b8e-b826-fa5e9867f78d)
+5
 
 **Description:** The image displays the "Tips for Better Time Management" within the TimeMinder app. This section offers various tips applicable to better time management for all, specifically students. Each tip is also listed with a dropdown menu, alongside the icon.
 
